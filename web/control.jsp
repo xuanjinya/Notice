@@ -24,15 +24,17 @@
 %>
 <h3 align="center">欢迎来到公告管理系统首页</h3>
 <hr>
-<form action="update.jsp">
+
+<form action="select.jsp">
     <table align="center" border="1px">
         <tr>
             <td>公告编号</td>
             <td><input type="text" name="account"></td>
-            <td><input type="submit" value="修改"></td>
+            <td><input type="submit" value="select"></td>
         </tr>
     </table>
 </form>
+
 <table align="center" border="1px">
     <tr>
         <td>编号</td>
