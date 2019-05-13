@@ -11,6 +11,8 @@
     <title>Title</title>
 </head>
 <body>
+<h3 align="center">修改公告信息</h3>
+<hr>
     <form action="updata_control.jsp">
         <table align="center" border="1px">
             <tr>

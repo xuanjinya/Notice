@@ -56,7 +56,7 @@
         <td><%=e.getContent()%>
         </td>
         <td>
-            <a href="update.jsp?account=<%= e.getAccount()%>&name=<%= e.getName()%>&content=<%=e.getContent()%>">修改</a>
+            <a href="delete.jsp?account=<%= e.getAccount()%>&name=<%= e.getName()%>&content=<%=e.getContent()%>">删除</a>
         </td>
         <td>
             <a href="update.jsp?account=<%= e.getAccount()%>&name=<%= e.getName()%>&content=<%=e.getContent()%>">修改</a>
